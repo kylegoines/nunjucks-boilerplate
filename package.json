@@ -1,0 +1,19 @@
+{
+  "name": "nunjucks-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://kylegoines@github.com/kylegoines/nunjucks-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylegoines/nunjucks-boilerplate/issues"
+  },
+  "homepage": "https://github.com/kylegoines/nunjucks-boilerplate#readme"
+}
